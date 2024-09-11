@@ -5,6 +5,6 @@
 - to be able to repeat a server config
 -maybe have fun
 
-## essons learn
+## Lessons learn
 
 ## instructions
